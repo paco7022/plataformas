@@ -1,0 +1,12 @@
+.godot/
+tools/
+.runtime/
+output/
+*.tmp
+__pycache__/
+*.py[cod]
+.venv/
+build/
+*.spec
+.env
+.env.*
